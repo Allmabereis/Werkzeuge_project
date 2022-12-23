@@ -20,5 +20,5 @@ Alle drei Dateien liegen im gleichen Ordner.
 ""
 """	
 
-# 
+#
 #>>>>>>> origin/implementation_datei
