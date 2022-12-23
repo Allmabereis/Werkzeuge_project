@@ -4,10 +4,10 @@ Hier eine Klasse DataSet implementieren.
 
 """	
 
-# Hier TODO
-=======
-Hier eine Klasse `DataSet` implementieren.
-
+# Hier #
+#=======
+#Hier eine Klasse `DataSet` implementieren.
+"""	
 Die Klasse muss eine Unterklasse von `dataset.DataSetInterface` sein
 und alle dort geforderten Methoden implementieren.
 Bei den Methoden von `DataSetInterface` stehen auch weitere Infos
@@ -17,8 +17,8 @@ Die hier implementierte Klasse wird spaeter mittels `from implementation import 
 geladen und mit Daten befüllt. Anschließend werden die Daten ausgelesen und überprüft!
 
 Alle drei Dateien liegen im gleichen Ordner.
-
+""
 """	
 
-# TODO
->>>>>>> origin/implementation_datei
+# 
+#>>>>>>> origin/implementation_datei
